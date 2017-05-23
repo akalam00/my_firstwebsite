@@ -1,0 +1,15 @@
+body {
+	background-color: orange;
+}
+
+h1 {
+	text-align: center;
+	font-family: Impact, sans-serif;
+	font-size: 40px;
+	color: darkred;
+}
+p, li {
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	line-height: 24px;
+}
